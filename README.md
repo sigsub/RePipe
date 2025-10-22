@@ -1,7 +1,7 @@
 # **When Intents take the Long Walk: Flexible Entity Resolution of Long Texts**
 
 RepIPE (Representation-based Incremental Passage Election), an end-to-end solution that combines a novel representation algorithm, which provably converges, with a dedicated matching procedure.
-
+![An illustration of RepIPE’s pipeline. Train anchor passages are used to learn data item representations, which are averaged within each equivalence class to form centroids. At inference time, these centroids support both match prediction and passage selection.](https://github.com/sigsub/RePipe/blob/main/pipeline_new.png)
 
 
 ## Repository Structure
