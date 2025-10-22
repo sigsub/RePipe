@@ -25,3 +25,4 @@ RepIPE (Representation-based Incremental Passage Election), an end-to-end soluti
    * [editing_fig_pkls.ipynb](https://github.com/sigsub/RePipe/blob/main/editing_fig_pkls.ipynb) — Visualizations for the paper
    * [matching_metrics.py](https://github.com/sigsub/RePipe/blob/main/matching_metrics.py) — Implementation of the Macro-F1 metric.
    * [finetune_hf_model_for_reps.py](https://github.com/sigsub/RePipe/blob/main/finetune_hf_model_for_reps.py) — Finetuning a huggingface SBERT model using a paired dataset.
+   * [requirements.txt](https://github.com/sigsub/RePipe/blob/main/requirements.txt) — python environment requirements file.
