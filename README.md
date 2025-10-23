@@ -3,6 +3,8 @@
 RepIPE (Representation-based Incremental Passage Election), an end-to-end solution that combines a novel representation algorithm, which provably converges, with a dedicated matching procedure.
 ![An illustration of RepIPE’s pipeline. Train anchor passages are used to learn data item representations, which are averaged within each equivalence class to form centroids. At inference time, these centroids support both match prediction and passage selection.](https://github.com/sigsub/RePipe/blob/main/pipeline_new.png)
 
+# Reproducing results
+To reproduce our results, clone this directory and follow the cells in the [res_run_through.ipynb](https://github.com/sigsub/RePipe/blob/main/res_run_through.ipynb) notebook, with paths to your desired dataset files and passage representation models. 
 
 # Repository Structure
 * ### Main Inference Walkthrough
